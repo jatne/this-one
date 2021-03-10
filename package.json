@@ -1,0 +1,31 @@
+{
+    "name": "this-one",
+    "displayName": "This One",
+    "description": "The one you are looking for.",
+    "version": "1.0.0",
+    "publisher": "jatne",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "author": {
+		"name": "Paweł Malok",
+		"email": "pawel@malok.net",
+		"url": "https://malok.dev/"
+	},
+    "repository": {
+		"url": "https://github.com/jatne/this-one",
+		"type": "git"
+	},
+    "contributes": {
+        "themes": [
+            {
+                "label": "This One",
+                "uiTheme": "vs-dark",
+                "path": "./themes/This One-color-theme.json"
+            }
+        ]
+    }
+}
