@@ -2,7 +2,7 @@
     "name": "this-one",
     "displayName": "This One",
     "description": "The one you are looking for.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "jatne",
     "engines": {
         "vscode": "^1.54.0"
