@@ -2,7 +2,7 @@
     "name": "this-one",
     "displayName": "This One",
     "description": "The one you are looking for.",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "publisher": "jatne",
     "engines": {
         "vscode": "^1.54.0"
@@ -19,6 +19,7 @@
 		"url": "https://github.com/jatne/this-one",
 		"type": "git"
 	},
+    "icon": "assets/ico.png",
     "contributes": {
         "themes": [
             {
